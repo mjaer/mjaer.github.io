@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mjaer.github.io/GOJ/sitemap.GOJ.gz
